@@ -41,8 +41,9 @@
               left: auto;
               transform: translateX(0);
               transition: transform .3s ease-out;
+              
               .site-header--dark & {
-                  transform: scale(.57);
+                  transform: scale(.56);
                   transition: transform .3s ease-out;
               }
           }
